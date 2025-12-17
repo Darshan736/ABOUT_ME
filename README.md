@@ -1,6 +1,6 @@
 👋 Hi, I’m Darshan
 
-🎓 1st-Year Engineering Student (VTU)
+🎓 1st-Year Engineering Student ECE
 💻 Learning Programming, Automation & AI Fundamentals
 
 I’m currently focused on building strong programming foundations while exploring AI agents and automation at a beginner level.
