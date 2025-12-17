@@ -51,9 +51,6 @@ Automation workflows built using n8n for simple AI-assisted tasks.
 Research Agent (Learning Project)
 A Python-based research assistant created to understand agent logic, tools, and workflows.
 
-Python Mini Projects
-Small CLI-based programs to strengthen logic and core Python skills.
-
 🎯 Current Focus
 
 Strengthening Python fundamentals
@@ -73,3 +70,10 @@ Build real, non-copy-paste projects
 Learn ML & LangChain in later semesters
 
 Prepare for AI-focused internships in future years
+
+## 📫 Connect
+
+- 📧 Email: [darshanhiremath848@gmail.com](mailto:darshanhiremath848@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/darshan-hiremath-251887381/
+- 💻 GitHub: https://github.com/Darshan736
+
